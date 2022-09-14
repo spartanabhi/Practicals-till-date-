@@ -1,0 +1,23 @@
+
+*******************************************************************************
+Name of the student : yash
+Roll no : 1
+##Marks scored ; subject wise## 
+English : 13
+Hindi : 15
+Maths : 13
+Total Marks : 41
+Average Marks : 13.67
+Percentage : 68.33
+*******************************************************************************
+*******************************************************************************
+Name of the student : Sethji
+Roll no : 2
+##Marks scored ; subject wise## 
+English : 14
+Hindi : 18
+Maths : 11
+Total Marks : 43
+Average Marks : 14.33
+Percentage : 71.67
+*******************************************************************************

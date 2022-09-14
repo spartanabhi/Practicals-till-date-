@@ -1,0 +1,34 @@
+	WELCOME TO REPORT CARD DIRECTORY 
+*******************************************************************************
+Name of the student : Yash
+Roll no : 1
+##Marks scored ; subject wise## 
+English : 17
+Hindi : 19
+Social Science : 12
+Total Marks : 48
+Average Marks : 16.0
+Percentage : 80.0
+*******************************************************************************
+*******************************************************************************
+Name of the student : Sethji
+Roll no : 2
+##Marks scored ; subject wise## 
+English : 14
+Hindi : 16
+Social Science : 11
+Total Marks : 41
+Average Marks : 13.67
+Percentage : 68.33
+*******************************************************************************	WELCOME TO REPORT CARD DIRECTORY 
+*******************************************************************************
+Name of the student : Yash
+Roll no : 1
+##Marks scored ; subject wise## 
+English : 13
+Hindi : 14
+Social Science : 12
+Total Marks : 39
+Average Marks : 13.0
+Percentage : 65.0
+*******************************************************************************
